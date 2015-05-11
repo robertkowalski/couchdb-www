@@ -835,6 +835,9 @@ a.pt-about {
 .skill-card .stripe {
   height: 5px;
 }
+.skill-card .skill-card-slogan {
+  height: 125px;
+}
 .skill-card .skill-card-content {
   padding: 15px 20px 20px 20px;
 }
