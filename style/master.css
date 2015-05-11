@@ -132,7 +132,8 @@ div.button:hover {
   display: table;
   /* 2 */
 }
-.cf:after {
+.cf:after,
+.clear {
   clear: both;
 }
 /*---------------------------------------------------
