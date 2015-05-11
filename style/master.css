@@ -905,3 +905,7 @@ a.pt-about {
   height: 5px;
   background-color: #ff0000;
 }
+.skill-card a:hover {
+  color: #ff0000;
+  text-decoration: underline;
+}
